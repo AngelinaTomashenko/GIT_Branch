@@ -30,7 +30,7 @@
 > git checkout check_lists -> touch check_list.txt -> nano check_list.txt
 
 **8. Запушить структуру на внешний репозиторий**
-> git commit -m "check_list" -> git push
+> git add . -> git commit -m "check_list" -> git push
 
 **9. На внешнем репозитории сделать Pull Request ветки CheckLists в main**
 > GitHub -> go to pull requests -> press button "new pull request" -> select base branch "main" & select compare branch "check_lists" -> pull request
