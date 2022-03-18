@@ -1,0 +1,3 @@
+To be tested: verify that "home page" is in Englash after EN language is chosen
+Expected resalt: "home page" is in English
+
